@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Nurlan
+## Hi there 👋, my name is Nurlan
 #### I am a passionate Front-End Developer
 ![I am a passionate Front-End Developer](./github-header-image.png)
 
