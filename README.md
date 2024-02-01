@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nurlan
 #### I am a passionate Front-End Developer
-![I am a passionate Front-End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a passionate Front-End Developer](./github-header-image.png)
 
 I love clean and intuitive user interfaces. Currently seeking opportunities to contribute to meaningful projects. Check out my portfolio and let's collaborate on something awesome!
 
