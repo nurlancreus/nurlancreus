@@ -1,17 +1,5 @@
 
-![I am a passionate Front-End Developer](./github-banner-image.png)
-# Hi there 👋, my name is Nurlan
-## I am a passionate Front-End Developer
-
-Skills: Web Components Development, Bug Resolution, BEM, Code Debugging, Web Design, Figma, SEO principles, Accessibility Standards, Responsive Design, HTML5, CSS3, AJAX, Bootstrap, Tailwind, Styled Components, Gulp.js, RESTful APIs, Axios, Javascript, jQuery, TypeScript, React, Git, Github, Redux, Redux Toolkit, TanStack Query, React Hook Form, Zod
-
-- 🔭 I’m currently working on Personal Portfolio site 
-- 🌱 I’m currently learning C#, SQL and Node 
-- 👯 I’m looking to collaborate on front-end development projects. Let's create something great together! 
-- 💬 Ask me about ANYTHING 
-- 📫 How to reach me: nurlancreus007@gmail.com 
-- ⚡ Fun fact: NaN (not a number) is a number 
-
+![I am a passionate Back-End Developer](./github-banner-image.png)
 
 <h1 align="center">Hello there! 👋 I'm Nurlan Shukurov</h1>
 <h3 align="center">A Passionate Back-End Developer from Azerbaijan</h3>
