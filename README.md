@@ -1,5 +1,5 @@
 
-![I am a passionate Back-End Developer](./github-banner-image.png)
+![I am a passionate Back-End Developer](./github-header.png)
 
 <h1 align="center">Hello there! 👋 I'm Nurlan Shukurov</h1>
 <h3 align="center">A Passionate Back-End Developer from Azerbaijan</h3>
