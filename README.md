@@ -2,7 +2,7 @@
 ![I am a passionate Back-End Developer](./github-header.png)
 
 <h1 align="center">Hello there! 👋 I'm Nurlan Shukurov</h1>
-<h3 align="center">A Passionate Back-End Developer from Azerbaijan</h3>
+<h3 align="center">A Passionate Back-End Developer</h3>
 <h3 align="left">👨‍💻 About Me</h3> <p align="left"> I am a dedicated back-end developer with a strong interest in problem-solving and coding. Currently, I am exploring full-stack development with a focus on C# and ASP.NET to broaden my expertise. <br><br> - 🔭 I’m currently working on various projects, including a Mini E-Commerce API and an ASP.NET MVC project during my internship at Jet Academy. - 📚 I'm continually learning and experimenting with new technologies, including ASP.NET Core Microservices and Docker. - ⚡ In my free time, I enjoy watching movies and exploring the latest in tech trends. </p>
 <div align="center"> <a href="https://www.linkedin.com/in/nurlan-shukurov/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /> </a> </div>
 
